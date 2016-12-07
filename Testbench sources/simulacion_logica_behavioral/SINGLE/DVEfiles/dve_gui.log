@@ -1,0 +1,62 @@
+Warning : License for product VCSRuntime_Net(725) will expire within 11 days, on: 10-nov-2016.
+If you would like to temporarily disable this message, set 
+ the VCS_LIC_EXPIRE_WARNING environment variable to the number of days
+before expiration that you want this message to start (the minimum is 0).
+Chronologic VCS simulator copyright 1991-2015
+Contains Synopsys proprietary information.
+Compiler version K-2015.09-SP2-3_Full64; Runtime version K-2015.09-SP2-3_Full64;  Oct 31 11:29 2016
+VCD+ Writer K-2015.09-SP2-3_Full64 Copyright (c) 1991-2015 by Synopsys Inc.
+The file '/home/local/ESTUDIANTES/jsequeira/Documents/Dise-o-ASIC-FPGA-FPU/ASIC_FLOW/ASIC_fpu/integracion_fisica/simulacion_logica_behavioral/SINGLE/inter.vpd' was opened successfully.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ps
+CPU Time:      0.080 seconds;       Data structure size:   0.2Mb
+Mon Oct 31 11:29:57 2016
+Warning : License for product VCSRuntime_Net(725) will expire within 11 days, on: 10-nov-2016.
+If you would like to temporarily disable this message, set 
+ the VCS_LIC_EXPIRE_WARNING environment variable to the number of days
+before expiration that you want this message to start (the minimum is 0).
+Chronologic VCS simulator copyright 1991-2015
+Contains Synopsys proprietary information.
+Compiler version K-2015.09-SP2-3_Full64; Runtime version K-2015.09-SP2-3_Full64;  Oct 31 11:29 2016
+VCD+ Writer K-2015.09-SP2-3_Full64 Copyright (c) 1991-2015 by Synopsys Inc.
+The file '/home/local/ESTUDIANTES/jsequeira/Documents/Dise-o-ASIC-FPGA-FPU/ASIC_FLOW/ASIC_fpu/integracion_fisica/simulacion_logica_behavioral/SINGLE/inter.vpd' was opened successfully.
+------------------------SUMA--------------------------
+------------------------    --------------------------
+------------------------SUMA--------------------------
+------------------------SUMA--------------------------
+------------------------    --------------------------
+------------------------SUMA--------------------------
+------------------------RSTA--------------------------
+------------------------    --------------------------
+------------------------RSTA--------------------------
+------------------------MULT--------------------------
+------------------------    --------------------------
+------------------------MULT--------------------------
+---------------------REGION I or IV--------------------------
+------------------------    --------------------------
+---------------------REGION I or IV-------------------
+------------------------SENO--------------------------
+------------------------    --------------------------
+------------------------SENO--------------------------
+------------------------RSTA--------------------------
+------------------------    --------------------------
+------------------------RSTA--------------------------
+------------------------MULT--------------------------
+------------------------    --------------------------
+------------------------MULT--------------------------
+---------------------REGION I or IV--------------------------
+------------------------    --------------------------
+---------------------REGION I or IV-------------------
+------------------------SENO--------------------------
+------------------------    --------------------------
+------------------------SENO--------------------------
+------------------------COS--------------------------
+------------------------    --------------------------
+------------------------COS--------------------------
+$finish called from file "/home/local/ESTUDIANTES/jsequeira/Documents/Dise-o-ASIC-FPGA-FPU/ASIC_FLOW/ASIC_fpu/integracion_fisica/simulacion_logica_behavioral/SINGLE/Testbench_FPUv2_Interface.v", line 253.
+$finish at simulation time           5151140000
+Simulation complete, time is 5151140000 ps.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5151140000 ps
+CPU Time:     15.430 seconds;       Data structure size:   0.2Mb
+Mon Oct 31 11:38:09 2016

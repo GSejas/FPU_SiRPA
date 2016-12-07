@@ -1,0 +1,182 @@
+{
+    "Multiplexer_AC_0000": [
+        "Multiplexer_AC_0000",
+        "UPR0r",
+        "module"
+    ],
+    "Rotate_Mux_Array_0001": [
+        "Rotate_Mux_Array_0001",
+        "ZNHBN",
+        "module"
+    ],
+    "shift_mux_array_0006": [
+        "shift_mux_array_0006",
+        "Lq53g",
+        "module"
+    ],
+    "Mux_2x1": [
+        "Mux_2x1",
+        "Zxgtm",
+        "module"
+    ],
+    "shift_mux_array_0001": [
+        "shift_mux_array_0001",
+        "Dnpmq",
+        "module"
+    ],
+    "WRecursiveKOA": [
+        "WRecursiveKOA",
+        "I4xkI",
+        "module"
+    ],
+    "shift_mux_array_000A": [
+        "shift_mux_array_000A",
+        "S2q3J",
+        "module"
+    ],
+    "CORDIC_Arch3": [
+        "CORDIC_Arch3",
+        "US5Lr",
+        "module"
+    ],
+    "shift_mux_array_0002": [
+        "shift_mux_array_0002",
+        "WjFVn",
+        "module"
+    ],
+    "shift_mux_array_0007": [
+        "shift_mux_array_0007",
+        "ve1s2",
+        "module"
+    ],
+    "shift_mux_array_0003": [
+        "shift_mux_array_0003",
+        "w253U",
+        "module"
+    ],
+    "deco_op": [
+        "deco_op",
+        "ngvTp",
+        "module"
+    ],
+    "LUT_CASE_32bits": [
+        "LUT_CASE_32bits",
+        "APd0b",
+        "module"
+    ],
+    "shift_mux_array_0004": [
+        "shift_mux_array_0004",
+        "G4Syt",
+        "module"
+    ],
+    "shift_mux_array_0008": [
+        "shift_mux_array_0008",
+        "n6LkL",
+        "module"
+    ],
+    "Priority_Codec_64": [
+        "Priority_Codec_64",
+        "dKutG",
+        "module"
+    ],
+    "Sgf_Multiplication": [
+        "Sgf_Multiplication",
+        "xe2JM",
+        "module"
+    ],
+    "RecursiveKOA": [
+        "RecursiveKOA",
+        "Txzni",
+        "module"
+    ],
+    "shift_mux_array_0005": [
+        "shift_mux_array_0005",
+        "hxDwR",
+        "module"
+    ],
+    "shift_mux_array_0009": [
+        "shift_mux_array_0009",
+        "V7hu5",
+        "module"
+    ],
+    "NaN_mod_64": [
+        "NaN_mod_64",
+        "buq2z",
+        "module"
+    ],
+    "shift_mux_array_000B": [
+        "shift_mux_array_000B",
+        "SgxL9",
+        "module"
+    ],
+    "Rotate_Mux_Array_0000": [
+        "Rotate_Mux_Array_0000",
+        "GBFFm",
+        "module"
+    ],
+    "CORDIC_FSM_v3": [
+        "CORDIC_FSM_v3",
+        "ewejs",
+        "module"
+    ],
+    "FSM_INPUT_ENABLE": [
+        "FSM_INPUT_ENABLE",
+        "sGrSh",
+        "module"
+    ],
+    "CORDIC_Arch2": [
+        "CORDIC_Arch2",
+        "Qb7ID",
+        "module"
+    ],
+    "CORDIC_FSM_v2": [
+        "CORDIC_FSM_v2",
+        "Negbg",
+        "module"
+    ],
+    "FPU_Interface2": [
+        "FPU_Interface2",
+        "Enr7Q",
+        "module"
+    ],
+    "FPU_Multiplication_Function_0000": [
+        "FPU_Multiplication_Function_0000",
+        "eFGTi",
+        "module"
+    ],
+    "FSM_Add_Subtract": [
+        "FSM_Add_Subtract",
+        "tsP6I",
+        "module"
+    ],
+    "Priority_Codec_32": [
+        "Priority_Codec_32",
+        "Y4GEV",
+        "module"
+    ],
+    "Mux_2x1_0000": [
+        "Mux_2x1_0000",
+        "RKILn",
+        "module"
+    ],
+    "demux_1x3": [
+        "demux_1x3",
+        "B5gYR",
+        "module"
+    ],
+    "LUT_CASE_64bits": [
+        "LUT_CASE_64bits",
+        "qhI9a",
+        "module"
+    ],
+    "Testbench_FPU_Mark1": [
+        "Testbench_FPU_Mark1",
+        "NdheE",
+        "module"
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module"
+    ]
+}

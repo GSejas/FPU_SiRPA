@@ -1,0 +1,558 @@
+{
+    "PrevCompiledModules": {
+        "sign_inverter": {
+            "yjNM0_d": {
+                "mode": 4,
+                "bytes": 9358,
+                "checksum": 4294967295,
+                "mod": "sign_inverter",
+                "out": "yjNM0_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "shift_mux_array_0001": {
+            "Dnpmq_d": {
+                "mode": 4,
+                "bytes": 40227,
+                "checksum": 4294967295,
+                "mod": "shift_mux_array_0001",
+                "out": "Dnpmq_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "LUT_CASE_32bits": {
+            "APd0b_d": {
+                "mode": 4,
+                "bytes": 8973,
+                "checksum": 4294967295,
+                "mod": "LUT_CASE_32bits",
+                "out": "APd0b_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Mux_3x1_bv2": {
+            "BrK1N_d": {
+                "mode": 4,
+                "bytes": 8243,
+                "checksum": 4294967295,
+                "mod": "Mux_3x1_bv2",
+                "out": "BrK1N_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Mux_2x1": {
+            "Zxgtm_d": {
+                "mode": 4,
+                "bytes": 7649,
+                "checksum": 4294967295,
+                "mod": "Mux_2x1",
+                "out": "Zxgtm_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "shift_mux_array_0004": {
+            "G4Syt_d": {
+                "mode": 4,
+                "bytes": 39799,
+                "checksum": 4294967295,
+                "mod": "shift_mux_array_0004",
+                "out": "G4Syt_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Mux_2x1_0000": {
+            "RKILn_d": {
+                "mode": 4,
+                "bytes": 7520,
+                "checksum": 4294967295,
+                "mod": "Mux_2x1_0000",
+                "out": "RKILn_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "CORDIC_FSM_v2": {
+            "Negbg_d": {
+                "mode": 4,
+                "bytes": 21141,
+                "checksum": 4294967295,
+                "mod": "CORDIC_FSM_v2",
+                "out": "Negbg_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Sgf_Multiplication": {
+            "xe2JM_d": {
+                "mode": 4,
+                "bytes": 31395,
+                "checksum": 4294967295,
+                "mod": "Sgf_Multiplication",
+                "out": "xe2JM_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "mult": {
+            "SRUFi_d": {
+                "mode": 4,
+                "bytes": 7918,
+                "checksum": 4294967295,
+                "mod": "mult",
+                "out": "SRUFi_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Mux_3x1_b": {
+            "ncGYg_d": {
+                "mode": 4,
+                "bytes": 8243,
+                "checksum": 4294967295,
+                "mod": "Mux_3x1_b",
+                "out": "ncGYg_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "shift_mux_array_0005": {
+            "hxDwR_d": {
+                "mode": 4,
+                "bytes": 39443,
+                "checksum": 4294967295,
+                "mod": "shift_mux_array_0005",
+                "out": "hxDwR_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "shift_mux_array_0003": {
+            "w253U_d": {
+                "mode": 4,
+                "bytes": 40075,
+                "checksum": 4294967295,
+                "mod": "shift_mux_array_0003",
+                "out": "w253U_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Priority_Codec_32": {
+            "Y4GEV_d": {
+                "mode": 4,
+                "bytes": 9049,
+                "checksum": 4294967295,
+                "mod": "Priority_Codec_32",
+                "out": "Y4GEV_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Multiplexer_AC_0000": {
+            "UPR0r_d": {
+                "mode": 4,
+                "bytes": 7792,
+                "checksum": 4294967295,
+                "mod": "Multiplexer_AC_0000",
+                "out": "UPR0r_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "demux_1x3": {
+            "B5gYR_d": {
+                "mode": 4,
+                "bytes": 8233,
+                "checksum": 4294967295,
+                "mod": "demux_1x3",
+                "out": "B5gYR_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Testbench_FPU_Mark1": {
+            "NdheE_d": {
+                "mode": 4,
+                "bytes": 125881,
+                "checksum": 4294967295,
+                "mod": "Testbench_FPU_Mark1",
+                "out": "NdheE_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "NaN_mod_32": {
+            "xmDcH_d": {
+                "mode": 4,
+                "bytes": 9412,
+                "checksum": 4294967295,
+                "mod": "NaN_mod_32",
+                "out": "xmDcH_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "DECO_CORDIC_EXT": {
+            "M5RTI_d": {
+                "mode": 4,
+                "bytes": 9103,
+                "checksum": 4294967295,
+                "mod": "DECO_CORDIC_EXT",
+                "out": "M5RTI_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "shift_mux_array_0002": {
+            "WjFVn_d": {
+                "mode": 4,
+                "bytes": 40211,
+                "checksum": 4294967295,
+                "mod": "shift_mux_array_0002",
+                "out": "WjFVn_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Testbench_FPU_Mark2": {
+            "W96Hc_d": {
+                "mode": 4,
+                "bytes": 113452,
+                "checksum": 4294967295,
+                "mod": "Testbench_FPU_Mark2",
+                "out": "W96Hc_d.o",
+                "archive": "archive.4/_24633_archive_1.a"
+            }
+        },
+        "deco_op": {
+            "ngvTp_d": {
+                "mode": 4,
+                "bytes": 7829,
+                "checksum": 4294967295,
+                "mod": "deco_op",
+                "out": "ngvTp_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "CORDIC_FSM_v3": {
+            "ewejs_d": {
+                "mode": 4,
+                "bytes": 13630,
+                "checksum": 4294967295,
+                "mod": "CORDIC_FSM_v3",
+                "out": "ewejs_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "Rotate_Mux_Array_0000": {
+            "GBFFm_d": {
+                "mode": 4,
+                "bytes": 12875,
+                "checksum": 4294967295,
+                "mod": "Rotate_Mux_Array_0000",
+                "out": "GBFFm_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "FPU_Add_Subtract_Function_0000": {
+            "wMSEP_d": {
+                "mode": 4,
+                "bytes": 98216,
+                "checksum": 4294967295,
+                "mod": "FPU_Add_Subtract_Function_0000",
+                "out": "wMSEP_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "CORDIC_Arch2": {
+            "Qb7ID_d": {
+                "mode": 4,
+                "bytes": 57647,
+                "checksum": 4294967295,
+                "mod": "CORDIC_Arch2",
+                "out": "Qb7ID_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "CORDIC_Arch3": {
+            "US5Lr_d": {
+                "mode": 4,
+                "bytes": 50101,
+                "checksum": 4294967295,
+                "mod": "CORDIC_Arch3",
+                "out": "US5Lr_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "mode": 4,
+                "bytes": 9446,
+                "checksum": 4294967295,
+                "mod": "...MASTER...",
+                "out": "objs/amcQw_d.o"
+            }
+        },
+        "FPU_PIPELINED_FPADDSUB_0000": {
+            "g6CyZ_d": {
+                "mode": 4,
+                "bytes": 97707,
+                "checksum": 4294967295,
+                "mod": "FPU_PIPELINED_FPADDSUB_0000",
+                "out": "g6CyZ_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        },
+        "FPU_Multiplication_Function_0000": {
+            "eFGTi_d": {
+                "mode": 4,
+                "bytes": 112410,
+                "checksum": 4294967295,
+                "mod": "FPU_Multiplication_Function_0000",
+                "out": "eFGTi_d.o",
+                "archive": "archive.4/_prev_archive_1.a"
+            }
+        }
+    },
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_nivcsw": 167,
+            "ru_utime_sec": 0.567913,
+            "ru_nvcsw": 54,
+            "ru_minflt": 16177,
+            "ru_stime_sec": 0.076988000000000001,
+            "ru_maxrss_kb": 62012,
+            "ru_majflt": 0
+        },
+        "ru_childs_cgstart": {
+            "ru_nivcsw": 0,
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_minflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0
+        },
+        "ru_self_end": {
+            "ru_nivcsw": 175,
+            "ru_utime_sec": 0.62990400000000002,
+            "ru_nvcsw": 54,
+            "ru_minflt": 18327,
+            "ru_stime_sec": 0.088985999999999996,
+            "ru_maxrss_kb": 68828,
+            "ru_majflt": 0
+        },
+        "mop/quad": 2.089501510574018,
+        "nMops": 5533,
+        "outputSizePerQuad": 82.0,
+        "nQuads": 2648,
+        "ru_childs_end": {
+            "ru_nivcsw": 0,
+            "ru_utime_sec": 0.0,
+            "ru_nvcsw": 0,
+            "ru_minflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_majflt": 0
+        },
+        "totalObjSize": 219764,
+        "mopSpeed": 89254.891839137912,
+        "quadSpeed": 42715.87811133873,
+        "Frontend(%)": 90.15865909725926,
+        "CodeGen(%)": 9.8413409027407361
+    },
+    "MlibObjs": {},
+    "CompileProcesses": [
+        "cgproc.24633.json"
+    ],
+    "NameTable": {
+        "FPU_Add_Subtract_Function_0000": [
+            "FPU_Add_Subtract_Function_0000",
+            "wMSEP",
+            "module"
+        ],
+        "Mux_3x1_bv2": [
+            "Mux_3x1_bv2",
+            "BrK1N",
+            "module"
+        ],
+        "LUT_CASE_32bits": [
+            "LUT_CASE_32bits",
+            "APd0b",
+            "module"
+        ],
+        "sign_inverter": [
+            "sign_inverter",
+            "yjNM0",
+            "module"
+        ],
+        "shift_mux_array_0001": [
+            "shift_mux_array_0001",
+            "Dnpmq",
+            "module"
+        ],
+        "shift_mux_array_0002": [
+            "shift_mux_array_0002",
+            "WjFVn",
+            "module"
+        ],
+        "CORDIC_FSM_v3": [
+            "CORDIC_FSM_v3",
+            "ewejs",
+            "module"
+        ],
+        "Mux_3x1_b": [
+            "Mux_3x1_b",
+            "ncGYg",
+            "module"
+        ],
+        "shift_mux_array_0005": [
+            "shift_mux_array_0005",
+            "hxDwR",
+            "module"
+        ],
+        "mult": [
+            "mult",
+            "SRUFi",
+            "module"
+        ],
+        "shift_mux_array_0003": [
+            "shift_mux_array_0003",
+            "w253U",
+            "module"
+        ],
+        "Mux_2x1": [
+            "Mux_2x1",
+            "Zxgtm",
+            "module"
+        ],
+        "shift_mux_array_0004": [
+            "shift_mux_array_0004",
+            "G4Syt",
+            "module"
+        ],
+        "Testbench_FPU_Mark1": [
+            "Testbench_FPU_Mark1",
+            "NdheE",
+            "module"
+        ],
+        "demux_1x3": [
+            "demux_1x3",
+            "B5gYR",
+            "module"
+        ],
+        "Multiplexer_AC_0000": [
+            "Multiplexer_AC_0000",
+            "UPR0r",
+            "module"
+        ],
+        "CORDIC_Arch3": [
+            "CORDIC_Arch3",
+            "US5Lr",
+            "module"
+        ],
+        "NaN_mod_32": [
+            "NaN_mod_32",
+            "xmDcH",
+            "module"
+        ],
+        "CORDIC_Arch2": [
+            "CORDIC_Arch2",
+            "Qb7ID",
+            "module"
+        ],
+        "Sgf_Multiplication": [
+            "Sgf_Multiplication",
+            "xe2JM",
+            "module"
+        ],
+        "CORDIC_FSM_v2": [
+            "CORDIC_FSM_v2",
+            "Negbg",
+            "module"
+        ],
+        "FPU_Multiplication_Function_0000": [
+            "FPU_Multiplication_Function_0000",
+            "eFGTi",
+            "module"
+        ],
+        "Mux_2x1_0000": [
+            "Mux_2x1_0000",
+            "RKILn",
+            "module"
+        ],
+        "DECO_CORDIC_EXT": [
+            "DECO_CORDIC_EXT",
+            "M5RTI",
+            "module"
+        ],
+        "deco_op": [
+            "deco_op",
+            "ngvTp",
+            "module"
+        ],
+        "Rotate_Mux_Array_0000": [
+            "Rotate_Mux_Array_0000",
+            "GBFFm",
+            "module"
+        ],
+        "Priority_Codec_32": [
+            "Priority_Codec_32",
+            "Y4GEV",
+            "module"
+        ],
+        "FPU_PIPELINED_FPADDSUB_0000": [
+            "FPU_PIPELINED_FPADDSUB_0000",
+            "g6CyZ",
+            "module"
+        ],
+        "Testbench_FPU_Mark2": [
+            "Testbench_FPU_Mark2",
+            "W96Hc",
+            "module"
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "CurCompileUdps": {},
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 105515
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "CurCompileModules": [
+        "...MASTER...",
+        "shift_mux_array_0001",
+        "shift_mux_array_0002",
+        "shift_mux_array_0003",
+        "shift_mux_array_0004",
+        "shift_mux_array_0005",
+        "Mux_3x1_bv2",
+        "CORDIC_FSM_v3",
+        "FPU_Add_Subtract_Function_0000",
+        "Multiplexer_AC_0000",
+        "mult",
+        "CORDIC_Arch3",
+        "NaN_mod_32",
+        "CORDIC_Arch2",
+        "FPU_Multiplication_Function_0000",
+        "CORDIC_FSM_v2",
+        "LUT_CASE_32bits",
+        "Mux_2x1",
+        "Mux_2x1_0000",
+        "DECO_CORDIC_EXT",
+        "sign_inverter",
+        "Mux_3x1_b",
+        "deco_op",
+        "Rotate_Mux_Array_0000",
+        "demux_1x3",
+        "Priority_Codec_32",
+        "FPU_PIPELINED_FPADDSUB_0000",
+        "Sgf_Multiplication",
+        "Testbench_FPU_Mark1",
+        "Testbench_FPU_Mark2"
+    ],
+    "PEModules": [],
+    "Misc": {
+        "csrc_abs": "/home/local/ESTUDIANTES/jsequeira/Documents/Dise-o-ASIC-FPGA-FPU/ASIC_FLOW/ASIC_fpu/integracion_fisica/simulacion_logica_behavioral/SINGLE/csrc",
+        "cwd": "/home/local/ESTUDIANTES/jsequeira/Documents/Dise-o-ASIC-FPGA-FPU/ASIC_FLOW/ASIC_fpu/integracion_fisica/simulacion_logica_behavioral/SINGLE",
+        "daidir": "simv.daidir",
+        "csrc": "csrc",
+        "daidir_abs": "/home/local/ESTUDIANTES/jsequeira/Documents/Dise-o-ASIC-FPGA-FPU/ASIC_FLOW/ASIC_fpu/integracion_fisica/simulacion_logica_behavioral/SINGLE/simv.daidir",
+        "default_output_dir": "csrc",
+        "archive_dir": "archive.4"
+    },
+    "CompileStatus": "Successful"
+}
